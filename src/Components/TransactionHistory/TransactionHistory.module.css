@@ -1,0 +1,10 @@
+.transactionHistory {
+  width: 450px;
+  border: 1px solid black;
+
+  align-items: center;
+}
+
+.tbody {
+  background: rgb(156, 169, 241);
+}
